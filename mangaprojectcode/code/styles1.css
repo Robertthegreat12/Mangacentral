@@ -67,32 +67,32 @@ main {
 
 /* Background images for slides */
 #slide1 {
-    background: no-repeat center url('');
+    background: no-repeat center url('hero section picture .jpeg');
     background-size: cover;
 }
 
 #slide2 {
-    background: no-repeat center url('../code/dbzbg.jpeg');
+    background: no-repeat center url('dbzbg.jpeg');
     background-size: cover;
 }
 
 #slide3 {
-    background: no-repeat center url('../code/fmabg.webp');
+    background: no-repeat center url('fmabg.webp');
     background-size: cover;
 }
 
 #slide4 {
-    background: no-repeat center url('../code/yusukemuratabg2.jpeg');
+    background: no-repeat center url('yusukemuratabg2.jpeg');
     background-size: cover;
 }
 
 #slide5 {
-    background: no-repeat center url('../code/Deathnotebg.jpeg');
+    background: no-repeat center url('Deathnotebg.jpeg');
     background-size: cover;
 }
 
 #slide6 {
-    background: no-repeat center url('../code/isaacneterobg.jpeg');
+    background: no-repeat center url('isaacneterobg.jpeg');
     background-size: cover;
 }
 
@@ -504,7 +504,7 @@ padding: 5px; ;
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image:url('../code/citybg.jpeg.png');
+    background-image:url('citybg.jpeg.png');
     width: 100%;
     height:40vh;
     background-size: cover;
